@@ -1,1 +1,1 @@
-# Arrays---DS
+# Arrays-DS.This code reverses an integer array using the built-in List.Reverse() method and returns the reversed list. The Main method reads the array from input, calls reverseArray, and writes the reversed array as a space-separated string to the output.
